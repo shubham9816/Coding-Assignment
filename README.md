@@ -6,11 +6,11 @@ c)  Roman To Number : https://github.com/shubham9816/Coding-Assignment/blob/main
 
 
 <h1>JavaScript Assignment Deployed Link</h1>
-Sorting : https://shubham9816.github.io/sorting/ <br>
-WordReverse : https://shubham9816.github.io/WordReverse/ <br>
+a) Sorting : https://shubham9816.github.io/sorting/ <br>
+b) WordReverse : https://shubham9816.github.io/WordReverse/ <br>
 
 
 <h1>HTML Assignment Deployed Link</h1>
 
-Survey form : https://shubham9816.github.io/surveyForm/ <br>
-Calculator : https://shubham9816.github.io/calculator/
+a) Survey form : https://shubham9816.github.io/surveyForm/ <br>
+b) Calculator : https://shubham9816.github.io/calculator/
